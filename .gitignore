@@ -12,3 +12,7 @@ MicroRabbit/.vs
 /MicroRabbit/MicroRabbit.Infra.IOC/obj
 /MicroRabbit/MicroRabbitInfraBus/bin/Debug/netcoreapp2.2
 /MicroRabbit/MicroRabbitInfraBus/obj
+/MicroRabbit/MicroRabbit.Banking.Api/obj
+/MicroRabbit/MicroRabbit.Banking.Data/obj
+/MicroRabbit/MicroRabbit.Banking.Application/obj
+/MicroRabbit/MicroRabbit.Banking.Domain/obj
