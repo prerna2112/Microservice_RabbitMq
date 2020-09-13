@@ -12,8 +12,8 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace MicroRabbit.Infra.IoC
 {
-   public class DependencyContainer
-   {
+    public class DependencyContainer
+    {
         public static void RegisterServices(IServiceCollection services)
         {
             //Domain Bus
@@ -24,9 +24,9 @@ namespace MicroRabbit.Infra.IoC
 
             //Data layer
             services.AddTransient<IAccountRepository, AccountRepository>();
-            services.AddDbContext<BankingDbContext>();
+            services.AddTransient<BankingDbContext>();
 
 
         }
-   }
+    }
 }

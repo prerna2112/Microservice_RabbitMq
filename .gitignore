@@ -16,3 +16,8 @@ MicroRabbit/.vs
 /MicroRabbit/MicroRabbit.Banking.Data/obj
 /MicroRabbit/MicroRabbit.Banking.Application/obj
 /MicroRabbit/MicroRabbit.Banking.Domain/obj
+/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp2.2
+/MicroRabbit/DependencyContainer/obj
+/MicroRabbit/MicroRabbit.Banking.Application/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Banking.Domain/bin/Debug/netcoreapp2.2
