@@ -2,6 +2,25 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+lib/
+buildlogs/
+bld/
+[Bb]in/
+[Oo]bj/
+.vs/
 /MicroRabbit/.vs/MicroRabbit/v15/.suo
 MicroRabbit/.vs/MicroRabbit/v15/.suo
 MicroRabbit/.vs
